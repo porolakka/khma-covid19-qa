@@ -8,10 +8,11 @@ NPO法人 関西健康・医療学術連絡会 「COVID-19タスクフォース�
 
 * README.md
 * qa-table.csv
+* qa-table.xlsx
 
-### QA一覧表(qa-table.csv)について
+### QA一覧表(qa-table.csv / xlsx)について
 
-「qa-table.csv」がQA一覧表のデータ。現在のところ日本語のみ（英訳可能であれば嬉しいです！）。  
+「qa-table.csv」「qa-table.xlsx」はQA一覧表のデータ。現在のところ日本語のみ（英訳可能であれば嬉しいです！）。生成順序はxlsx -> csv。参考文献などの改行はxlsxの方が見やすいかも。  
 
 一覧表の列名と内容については以下を参照のこと。
 
