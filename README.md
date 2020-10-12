@@ -51,4 +51,5 @@ NPO法人 関西健康・医療学術連絡会 「COVID-19タスクフォース�
 
 ### サイト作成協力
 落合陽、落合正晴、池田功平、三光楼茉澄  
-Code for AICHI 吉岡三善、Code for Japan STOプロジェクト 菅野晶仁
+Code for AICHI 吉岡三善、Code for Japan STOプロジェクト  
+菅野晶仁、曽根尚史、松崎綾乃、猪股光
